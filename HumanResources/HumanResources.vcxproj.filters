@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pakal">
+      <UniqueIdentifier>{d0909ff7-9cfe-4c80-9c6b-538abd0d6e3a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HumanResources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HumanResourcesDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HumanResourcesView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Structures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EmployeeDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FilterDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SortListCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MydateTimeCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EmployeesViewOffTimeDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddRestTimeDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EmployeesTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EmployeesOffTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EducationDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EmployeesWorkTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EmployeesEducationTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TabsDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WorkDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddWork.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddEducationDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTabDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MissingEmployeesDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MissingEmployeesTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ViMissingEmployeesTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MissingEmployeesDatesPickerDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enums.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddDifferentTypesDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DifferentTypesDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyNomenclaturesTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommunicateWithServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\Archive.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\Attribute.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\Element.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\JsonReader.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\JsonWriter.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\PersistUtils.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\TextReader.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\TextWriter.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\XmlReader.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\XmlWriter.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\picojson\picojson.h">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\pugixml\pugiconfig.hpp">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+    <ClInclude Include="pakal_persist-master\pugixml\pugixml.hpp">
+      <Filter>Pakal</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HumanResources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HumanResourcesDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HumanResourcesView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeeDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FilterDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SortListCtrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MydateTimeCtrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeesViewOffTimeDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddRestTimeDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeesTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeesOffTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EducationDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeesWorkTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeesEducationTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TabsDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WorkDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddWork.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddEducationDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MissingEmployeesDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ViMissingEmployeesTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MissingEmployeesDatesPickerDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DifferentTypesDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddDifferentTypesDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyNomenclaturesTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\Archive.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\Attribute.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\Element.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\JsonReader.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\JsonWriter.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\TextReader.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\TextWriter.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\XmlReader.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\XmlWriter.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+    <ClCompile Include="pakal_persist-master\pugixml\pugixml.cpp">
+      <Filter>Pakal</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="HumanResources.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\userimages.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HumanResourcesDoc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HumanResources.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Toolbar256.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\HumanResources.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource.hm">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

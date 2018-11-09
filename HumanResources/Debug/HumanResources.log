@@ -1,0 +1,87 @@
+﻿  AddDifferentTypesDlg.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+  AddEducationDlg.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\addeducationdlg.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\addeducationdlg.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\addeducationdlg.cpp(179): warning C4101: 'nItem': unreferenced local variable
+  AddRestTimeDlg.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\addresttimedlg.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\addresttimedlg.cpp(111): warning C4018: '<': signed/unsigned mismatch
+  AddWork.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\addwork.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\addwork.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\addwork.cpp(121): warning C4101: 'nItem': unreferenced local variable
+  DifferentTypesDlg.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\differenttypesdlg.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\differenttypesdlg.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\differenttypesdlg.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\differenttypesdlg.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  EducationDlg.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\educationdlg.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\educationdlg.cpp(80): warning C4018: '<': signed/unsigned mismatch
+  EmployeeDialog.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\employeedialog.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\employeedialog.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\employeedialog.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\employeedialog.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\employeedialog.cpp(255): warning C4018: '<': signed/unsigned mismatch
+  EmployeesEducationTable.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+  EmployeesOffTable.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+  EmployeesTable.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+  EmployeesViewOffTimeDlg.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\employeesviewofftimedlg.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\employeesviewofftimedlg.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  EmployeesWorkTable.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+  HumanResources.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+  HumanResourcesDoc.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(255): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(291): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(329): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(410): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(414): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(460): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(536): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(551): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesdoc.cpp(563): warning C4018: '<': signed/unsigned mismatch
+  HumanResourcesView.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesview.cpp(319): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\humanresourcesview.cpp(336): warning C4018: '<': signed/unsigned mismatch
+  MainFrm.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+  MissingEmployeesDatesPickerDialog.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\missingemployeesdatespickerdialog.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\missingemployeesdatespickerdialog.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  MissingEmployeesDlg.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\missingemployeesdlg.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  TabsDlg.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+  ViMissingEmployeesTable.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+  Generating Code...
+  Compiling...
+  WorkDlg.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\cereal\details\polymorphic_impl.hpp(265): warning C4003: not enough actual parameters for macro 'max'
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\workdlg.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\workdlg.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  HumanResources.vcxproj -> C:\Users\denislav.ivanov\source\repos\HumanResources\Debug\HumanResources.exe

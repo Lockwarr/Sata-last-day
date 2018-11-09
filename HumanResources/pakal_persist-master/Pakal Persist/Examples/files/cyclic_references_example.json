@@ -1,0 +1,52 @@
+{
+  "people": [
+    {
+      "name": "Alfred",
+      "address": "000002EF5BCB54D0",
+      "friends": [
+        {
+          "address": "000002EF5BCB5518"
+        },
+        {
+          "address": "000002EF5BCB5560"
+        }
+      ]
+    },
+    {
+      "name": "Ben",
+      "address": "000002EF5BCB5518",
+      "friends": [
+        {
+          "address": "000002EF5BCB54D0"
+        },
+        {
+          "address": "000002EF5BCB55A8"
+        }
+      ]
+    },
+    {
+      "name": "Camilla",
+      "address": "000002EF5BCB5560",
+      "friends": [
+        {
+          "address": "000002EF5BCB54D0"
+        },
+        {
+          "address": "000002EF5BCB5518"
+        },
+        {
+          "address": "000002EF5BCB55A8"
+        }
+      ]
+    },
+    {
+      "name": "Denise",
+      "address": "000002EF5BCB55A8",
+      "friends": [
+        {
+          "address": "000002EF5BCB5560"
+        }
+      ]
+    }
+  ]
+}

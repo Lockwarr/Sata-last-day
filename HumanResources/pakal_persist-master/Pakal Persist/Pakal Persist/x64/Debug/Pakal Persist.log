@@ -1,0 +1,21 @@
+﻿  Archive.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\archive.cpp(1): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  JsonReader.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\jsonreader.cpp(35): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  JsonWriter.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\jsonwriter.cpp(35): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Attribute.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\attribute.cpp(35): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Element.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\element.cpp(35): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  pugixml.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\pugixml\pugixml.cpp(13): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  TextReader.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\textreader.cpp(35): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  TextWriter.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\textwriter.cpp(2): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  XmlReader.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\xmlreader.cpp(35): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  XmlWriter.cpp
+c:\users\denislav.ivanov\source\repos\humanresources\humanresources\pakal_persist-master\xmlwriter.cpp(35): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Generating Code...
